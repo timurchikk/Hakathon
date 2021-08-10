@@ -1,0 +1,36 @@
+.page1 {
+    background-image: url(https://cdn.shopify.com/s/files/1/1320/6057/files/Screen_Shot_2021-04-04_at_10.24.18_AM_1500x.jpg?v=%22);
+    width: 100%;
+    height: 91vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.page {
+    padding-top: 9vh;
+}
+.line{
+    color: #ffffff;
+    font-size: 20px;
+}
+    
+.signature {
+    flex-grow: 0;
+    text-shadow: 0 1px rgb(0 0 0 / 50%);
+    margin-top: 5px;
+}
+.signature h2 {
+    text-align: center;
+    letter-spacing: .3em;
+
+}
+.discover {
+    color: #ffffff;
+    flex-grow: 0;
+    text-shadow: 0 1.5px rgb(0 0 0 / 50%);
+    margin-top: 25px;
+    word-spacing: .3em;
+    font-size: 17px;
+}

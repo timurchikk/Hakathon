@@ -1,0 +1,124 @@
+.footer{
+    width: 100%;
+    color: #767676;
+    line-height: 30px;
+    font-size: 15px;
+    font-family: 'Lato', sans-serif;
+    
+}
+.footer-img{
+    position: relative;
+    width: 100%;
+    height: 250px;
+    display: flex;
+}
+.footer-img img{
+    width: 19.3%;
+}
+.youtube{
+    width: 20%;
+}
+.footer-h3{
+    color: #232121;
+    letter-spacing: 2px;
+    font-size: 13px;
+}
+.footer_category{
+    text-decoration: none;
+    color: #767676;
+}
+.shop_menu_first,
+.shop_menu_second,
+.help_menu_first,
+.help_menu_second{
+    display: flex;
+    flex-direction: column;
+}
+.shop_menu,
+.help_menu{
+width: 25%;
+height: 200px;
+}
+.shop_menu_items,
+.help_menu_items{
+    display: flex;
+    justify-content: space-between;
+}
+.email_input{
+    height: 30px;
+    width: 100%;
+    border: 1px solid #d9d9d9;
+    padding: 8px;
+    font-size: 15px;
+    letter-spacing: 0.5px;
+    margin-bottom: 2%;
+}
+.email_input:focus{
+    outline: 0;
+outline-offset: 0;
+    border-color: rgb(118, 118, 118);
+
+}
+.btn_subscribe{
+    width: 50%;
+    height: 45px;
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+    letter-spacing: 1px;
+}
+
+.subscribe_menu{
+    display: flex;
+    flex-direction: column;
+    
+}
+.newsletter{
+    width: 20%;
+}
+.sub_footer{
+    margin-top: 4%;
+    display: flex;
+    justify-content: space-around;
+}
+.footer_category:hover{
+    color: rgb(59, 58, 58);
+    transition: 1s;
+}
+.social_icon{
+    margin-top: 5%;
+    width: 20%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.social_icon img{
+    width: 7%;
+}
+.copyright img{
+    width:10%;
+}
+.copyright{
+    width: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Lato, sans-serif;
+    font-size: 12px;
+}
+.social_menu{
+    margin-top: 2%;
+    margin-left: 15%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.pay_cards{
+    width: 20%;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10%;
+}
+
+.pay_cards_img:hover{
+   filter: brightness(60%);
+}

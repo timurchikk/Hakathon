@@ -1,0 +1,20 @@
+.girl {
+    width: 400px;
+}
+
+.home1 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 50px;
+}
+.block-text {
+    padding-bottom: 30px;
+    width: 400px;
+    text-align: center;
+}
+.block-text2 {
+    padding-top: 30px;
+    width: 400px;
+    text-align: center;
+}

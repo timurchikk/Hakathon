@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+.shop {
+    padding-top: 9vh;
+}
+.shop p {
+    font-family: 'Lato', sans-serif;
+}
+li {
+    list-style: none;
+}
+.categoria {
+    margin-top: 20px;
+    margin-left: 100px;
+}
+.li-categoria {
+    padding-top: 20px
+}

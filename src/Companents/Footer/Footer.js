@@ -19,11 +19,11 @@ const Footer = () => {
     return (
       <div className="footer">
         <div className="footer-img">
-          <img className='pay_cards_img' src={footer1} />
-          <img className='pay_cards_img' src={footer2} />
-          <img className='pay_cards_img' src={footer3} />
-          <img className='pay_cards_img' src={footer4} />
-          <img className='pay_cards_img' src={footer5} />
+          <img src={footer1} />
+          <img src={footer2} />
+          <img src={footer3} />
+          <img src={footer4} />
+          <img src={footer5} />
         </div>
         <div className="sub_footer">
           <div className="shop_menu">
@@ -107,10 +107,10 @@ const Footer = () => {
         </div>
         <div className="pay_cards">
           <img src={apple_card} />
-          <img  src={apple_card} />
-          <img  src={apple_card} />
-          <img  src={apple_card} />
-          <img  src={apple_card} />
+          <img src={apple_card} />
+          <img src={apple_card} />
+          <img src={apple_card} />
+          <img src={apple_card} />
         </div>
         </div>
        

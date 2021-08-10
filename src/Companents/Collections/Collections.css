@@ -1,0 +1,22 @@
+.collection_title{
+    position: absolute;
+}
+.collections{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.wrap_collections{
+    width: 100%;
+    display: flex;
+    padding-left: 10px;
+    margin-top: 15%;
+
+}
+.collections_item img{
+    width: 95%;
+}
+.collecton_h3{
+    font-size: 25px;
+    margin-top: 20%;
+}
